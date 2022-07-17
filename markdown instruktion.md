@@ -62,14 +62,7 @@ git push
 ```
 git reset --hard
 ```
-
-Пробуем сейчас замерджить изменения
-
-ghjdnsafg sgsdeda vxz
-
-тееперь пробуем заребейзить ветку 
-
-
+e,bhftv 'nj kbiytt
 
 ## Цитаты
 
