@@ -65,10 +65,10 @@ git push
 git reset --hard
 ```
 
-ghjdnsafg sgsdeda vxz
-
 тееперь пробуем заребейзить ветку 
 
+
+e,bhftv 'nj kbiytt
 
 e,bhftv 'nj kbiytt
 
