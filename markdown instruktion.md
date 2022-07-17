@@ -67,6 +67,7 @@ git reset --hard
 
 ghjdnsafg sgsdeda vxz
 
+тееперь пробуем заребейзить ветку 
 
 
 
