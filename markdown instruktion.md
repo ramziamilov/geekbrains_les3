@@ -64,7 +64,7 @@ git push
 ```
 git reset --hard
 ```
-
+ghjdnsafg sgsdeda vxz
 
 
 
